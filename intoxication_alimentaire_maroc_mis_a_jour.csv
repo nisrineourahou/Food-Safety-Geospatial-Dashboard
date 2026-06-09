@@ -1,0 +1,81 @@
+Région,Ville,Date d'incident,Groupe d'âge,Nombre affecté,Aliment suspecté,Symptômes,Gravité,Hospitalisé,Type de traitement,Résultat,Inspection effectuée,Source alimentaire,Cause confirmée,Bactérie détectée,Actions de suivi
+Tanger-Tétouan-Al Hoceïma,Al Hoceïma,2024-06-28,60+,49,Poulet mal cuit,Nausée,Léger,30,Hydratation,Fatal,Non,Restaurant,Non,Aucun,Sanctions légales ou fermetures temporaires
+Tanger-Tétouan-Al Hoceïma,Larache,2024-01-03,41-60,33,Poisson avarié,Douleur abdominale,Sévère,4,Aucun,Fatal,Oui,Domicile,Non,Aucun,Renforcement des contrôles réguliers
+Fès-Meknès,Ifrane,2024-10-17,41-60,10,Salade contaminée,Diarrhée,Modéré,9,Antibiotiques,Rétabli,Oui,Vendeur ambulant,Oui,Aucun,Inspection sanitaire approfondie
+Casablanca-Settat,Casablanca,2024-04-16,60+,10,Dessert non réfrigéré,Vomissements,Léger,9,Aucun,Fatal,Non,Fast-food,Oui,Salmonelle,Sanctions légales ou fermetures temporaires
+Souss-Massa,Inezgane,2024-07-26,-12,33,Poisson avarié,Douleur abdominale,Léger,11,Les deux,Rétabli,Non,Restaurant,Non,Salmonelle,Mise en conformité des normes d'hygiène
+Casablanca-Settat,Berrechid,2024-04-30,-12,15,Poisson avarié,Diarrhée,Modéré,14,Antibiotiques,Rétabli,Oui,Vendeur ambulant,Oui,E. coli,Formation obligatoire du personnel alimentaire
+Souss-Massa,Taroudant,2024-05-26,25-40,15,Poisson avarié,Nausée,Léger,12,Aucun,Rétabli,Non,Fast-food,Oui,Listeria,Mise en conformité des normes d'hygiène
+Fès-Meknès,Ifrane,2024-02-19,41-60,14,Poulet mal cuit,Nausée,Léger,12,Aucun,Fatal,Oui,Domicile,Non,Listeria,Sanctions légales ou fermetures temporaires
+Fès-Meknès,Ifrane,2024-10-30,-12,8,Poisson avarié,Diarrhée,Léger,1,Hydratation,Fatal,Oui,Domicile,Oui,Aucun,Inspection sanitaire approfondie
+Marrakech-Safi,Youssoufia,2024-06-27,60+,6,Poulet mal cuit,Diarrhée,Modéré,3,Antibiotiques,Fatal,Oui,Vendeur ambulant,Non,Aucun,Mise en conformité des normes d'hygiène
+Marrakech-Safi,Safi,2024-03-12,41-60,39,Poulet mal cuit,Douleur abdominale,Modéré,20,Antibiotiques,Rétabli,Non,Vendeur ambulant,Non,Aucun,Inspection sanitaire approfondie
+Tanger-Tétouan-Al Hoceïma,Tangier,2024-06-17,25-40,49,Salade contaminée,Douleur abdominale,Sévère,11,Antibiotiques,Fatal,Oui,Domicile,Non,Salmonelle,Sanctions légales ou fermetures temporaires
+Casablanca-Settat,Mohammedia,2024-07-11,60+,4,Dessert non réfrigéré,Douleur abdominale,Modéré,0,Aucun,Fatal,Oui,Domicile,Non,Salmonelle,Formation obligatoire du personnel alimentaire
+Souss-Massa,Agadir,2024-08-10,60+,8,Poisson avarié,Diarrhée,Modéré,2,Hydratation,Rétabli,Non,Fast-food,Oui,Salmonelle,Formation obligatoire du personnel alimentaire
+Souss-Massa,Chtouka Ait Baha,2024-03-15,60+,22,Nourriture de rue contaminée,Nausée,Sévère,18,Aucun,Rétabli,Oui,Fournisseur industriel,Non,Salmonelle,Renforcement des contrôles réguliers
+Tanger-Tétouan-Al Hoceïma,Al Hoceïma,2024-08-06,25-40,38,Poulet mal cuit,Douleur abdominale,Modéré,16,Hydratation,Fatal,Oui,Fournisseur industriel,Oui,Salmonelle,Formation obligatoire du personnel alimentaire
+Fès-Meknès,Meknès,2024-03-18,13-24,43,Poulet mal cuit,Vomissements,Léger,28,Les deux,Fatal,Non,Domicile,Oui,Aucun,Sanctions légales ou fermetures temporaires
+Fès-Meknès,Ifrane,2024-03-05,-12,36,Poisson avarié,Nausée,Modéré,18,Antibiotiques,Rétabli,Non,Vendeur ambulant,Oui,Aucun,Inspection sanitaire approfondie
+Fès-Meknès,Taza,2024-09-29,41-60,31,Salade contaminée,Nausée,Sévère,15,Aucun,Fatal,Non,Domicile,Non,Listeria,Renforcement des contrôles réguliers
+Souss-Massa,Taroudant,2024-07-06,60+,17,Dessert non réfrigéré,Nausée,Sévère,8,Aucun,Rétabli,Non,Domicile,Oui,E. coli,Renforcement des contrôles réguliers
+Fès-Meknès,Taza,2024-04-29,25-40,16,Nourriture de rue contaminée,Douleur abdominale,Léger,5,Aucun,Fatal,Oui,Fournisseur industriel,Non,Listeria,Mise en conformité des normes d'hygiène
+Marrakech-Safi,Marrakech,2024-05-24,-12,32,Salade contaminée,Vomissements,Léger,2,Antibiotiques,Rétabli,Oui,Fournisseur industriel,Oui,Listeria,Formation obligatoire du personnel alimentaire
+Souss-Massa,Taroudant,2024-07-15,60+,13,Poulet mal cuit,Vomissements,Sévère,5,Antibiotiques,Rétabli,Non,Vendeur ambulant,Oui,Listeria,Inspection sanitaire approfondie
+Fès-Meknès,Ifrane,2024-09-08,41-60,1,Dessert non réfrigéré,Douleur abdominale,Léger,1,Aucun,Fatal,Oui,Domicile,Oui,Aucun,Mise en conformité des normes d'hygiène
+Souss-Massa,Agadir,2024-06-21,-12,21,Nourriture de rue contaminée,Diarrhée,Léger,16,Aucun,Rétabli,Non,Fast-food,Oui,Aucun,Inspection sanitaire approfondie
+Fès-Meknès,Taza,2024-05-03,41-60,45,Dessert non réfrigéré,Douleur abdominale,Modéré,2,Hydratation,Rétabli,Oui,Domicile,Non,Aucun,Renforcement des contrôles réguliers
+Souss-Massa,Inezgane,2024-06-09,60+,12,Poisson avarié,Douleur abdominale,Sévère,11,Antibiotiques,Fatal,Non,Fast-food,Non,E. coli,Renforcement des contrôles réguliers
+Marrakech-Safi,Essaouira,2024-04-30,25-40,41,Poulet mal cuit,Diarrhée,Léger,0,Antibiotiques,Fatal,Non,Fournisseur industriel,Non,Salmonelle,Sanctions légales ou fermetures temporaires
+Tanger-Tétouan-Al Hoceïma,Tétouan,2024-04-07,60+,13,Poisson avarié,Vomissements,Modéré,8,Les deux,Rétabli,Oui,Restaurant,Non,E. coli,Formation obligatoire du personnel alimentaire
+Souss-Massa,Taroudant,2024-09-16,60+,28,Nourriture de rue contaminée,Nausée,Léger,8,Les deux,Fatal,Oui,Vendeur ambulant,Oui,Salmonelle,Formation obligatoire du personnel alimentaire
+Tanger-Tétouan-Al Hoceïma,Tétouan,2024-06-10,25-40,20,Nourriture de rue contaminée,Nausée,Sévère,17,Hydratation,Rétabli,Non,Fast-food,Oui,E. coli,Inspection sanitaire approfondie
+Souss-Massa,Inezgane,2024-01-06,60+,3,Dessert non réfrigéré,Diarrhée,Sévère,3,Aucun,Rétabli,Non,Restaurant,Oui,Listeria,Sanctions légales ou fermetures temporaires
+Fès-Meknès,Ifrane,2024-02-23,60+,21,Poulet mal cuit,Douleur abdominale,Modéré,18,Aucun,Fatal,Oui,Vendeur ambulant,Non,Salmonelle,Formation obligatoire du personnel alimentaire
+Marrakech-Safi,Essaouira,2024-03-23,-12,41,Poisson avarié,Nausée,Léger,25,Les deux,Fatal,Non,Vendeur ambulant,Non,Salmonelle,Renforcement des contrôles réguliers
+Fès-Meknès,Meknès,2024-07-19,41-60,12,Salade contaminée,Nausée,Léger,12,Hydratation,Fatal,Non,Fast-food,Non,Aucun,Mise en conformité des normes d'hygiène
+Tanger-Tétouan-Al Hoceïma,Tangier,2024-02-04,13-24,33,Poulet mal cuit,Diarrhée,Léger,24,Les deux,Fatal,Non,Fournisseur industriel,Non,Aucun,Mise en conformité des normes d'hygiène
+Casablanca-Settat,Settat,2024-06-04,41-60,38,Nourriture de rue contaminée,Douleur abdominale,Sévère,6,Aucun,Rétabli,Non,Vendeur ambulant,Oui,Listeria,Formation obligatoire du personnel alimentaire
+Casablanca-Settat,Settat,2024-01-28,60+,50,Salade contaminée,Vomissements,Sévère,22,Antibiotiques,Rétabli,Non,Fast-food,Non,E. coli,Formation obligatoire du personnel alimentaire
+Tanger-Tétouan-Al Hoceïma,Tangier,2024-04-07,60+,24,Poisson avarié,Diarrhée,Léger,16,Hydratation,Rétabli,Oui,Restaurant,Oui,Listeria,Inspection sanitaire approfondie
+Casablanca-Settat,Mohammedia,2024-01-10,60+,20,Nourriture de rue contaminée,Nausée,Modéré,3,Les deux,Rétabli,Non,Fast-food,Non,Salmonelle,Formation obligatoire du personnel alimentaire
+Marrakech-Safi,Chichaoua,2024-09-17,-12,50,Dessert non réfrigéré,Diarrhée,Léger,46,Hydratation,Fatal,Non,Restaurant,Oui,E. coli,Mise en conformité des normes d'hygiène
+Casablanca-Settat,Settat,2024-05-15,-12,26,Nourriture de rue contaminée,Douleur abdominale,Sévère,7,Hydratation,Fatal,Oui,Restaurant,Non,Salmonelle,Sanctions légales ou fermetures temporaires
+Souss-Massa,Taroudant,2024-03-04,13-24,9,Nourriture de rue contaminée,Nausée,Modéré,1,Aucun,Fatal,Oui,Fast-food,Oui,Salmonelle,Inspection sanitaire approfondie
+Tanger-Tétouan-Al Hoceïma,Chefchaouen,2024-07-23,60+,7,Poulet mal cuit,Diarrhée,Léger,1,Aucun,Fatal,Oui,Fast-food,Non,E. coli,Inspection sanitaire approfondie
+Marrakech-Safi,Marrakech,2024-02-01,25-40,12,Poisson avarié,Diarrhée,Modéré,4,Aucun,Fatal,Oui,Restaurant,Oui,Aucun,Inspection sanitaire approfondie
+Casablanca-Settat,Casablanca,2024-01-12,41-60,9,Poisson avarié,Nausée,Léger,9,Les deux,Rétabli,Non,Restaurant,Oui,Listeria,Renforcement des contrôles réguliers
+Marrakech-Safi,Marrakech,2024-02-21,13-24,1,Nourriture de rue contaminée,Nausée,Léger,1,Les deux,Fatal,Non,Fournisseur industriel,Oui,Aucun,Mise en conformité des normes d'hygiène
+Souss-Massa,Chtouka Ait Baha,2024-08-19,13-24,31,Dessert non réfrigéré,Diarrhée,Léger,17,Aucun,Rétabli,Oui,Fast-food,Non,Salmonelle,Sanctions légales ou fermetures temporaires
+Marrakech-Safi,Youssoufia,2024-07-15,13-24,37,Salade contaminée,Vomissements,Léger,25,Aucun,Fatal,Oui,Fast-food,Non,Listeria,Mise en conformité des normes d'hygiène
+Fès-Meknès,Sefrou,2024-05-15,41-60,8,Dessert non réfrigéré,Nausée,Sévère,8,Aucun,Rétabli,Non,Domicile,Non,Aucun,Inspection sanitaire approfondie
+Fès-Meknès,Fès,2024-01-02,41-60,11,Poisson avarié,Diarrhée,Modéré,9,Aucun,Fatal,Oui,Restaurant,Oui,Salmonelle,Sanctions légales ou fermetures temporaires
+Casablanca-Settat,Berrechid,2024-05-21,13-24,27,Salade contaminée,Nausée,Léger,8,Les deux,Rétabli,Non,Fournisseur industriel,Oui,Aucun,Sanctions légales ou fermetures temporaires
+Marrakech-Safi,Youssoufia,2024-08-10,41-60,42,Poisson avarié,Nausée,Sévère,15,Antibiotiques,Fatal,Oui,Fournisseur industriel,Non,Listeria,Mise en conformité des normes d'hygiène
+Casablanca-Settat,Mohammedia,2024-04-25,25-40,23,Poulet mal cuit,Nausée,Léger,10,Hydratation,Fatal,Oui,Restaurant,Non,Aucun,Mise en conformité des normes d'hygiène
+Tanger-Tétouan-Al Hoceïma,Larache,2024-09-22,41-60,10,Salade contaminée,Vomissements,Modéré,6,Aucun,Fatal,Oui,Fournisseur industriel,Oui,Aucun,Renforcement des contrôles réguliers
+Tanger-Tétouan-Al Hoceïma,Chefchaouen,2024-06-21,-12,22,Salade contaminée,Nausée,Léger,11,Les deux,Rétabli,Oui,Restaurant,Non,E. coli,Renforcement des contrôles réguliers
+Marrakech-Safi,Chichaoua,2024-01-01,41-60,17,Nourriture de rue contaminée,Vomissements,Modéré,14,Les deux,Fatal,Oui,Vendeur ambulant,Oui,Listeria,Inspection sanitaire approfondie
+Fès-Meknès,Taza,2024-06-23,25-40,22,Poulet mal cuit,Nausée,Modéré,7,Aucun,Rétabli,Non,Fast-food,Non,E. coli,Mise en conformité des normes d'hygiène
+Fès-Meknès,Fès,2024-01-24,60+,24,Nourriture de rue contaminée,Vomissements,Sévère,16,Les deux,Fatal,Oui,Fournisseur industriel,Non,Salmonelle,Mise en conformité des normes d'hygiène
+Fès-Meknès,Sefrou,2024-08-01,-12,29,Poulet mal cuit,Douleur abdominale,Sévère,23,Hydratation,Fatal,Non,Fournisseur industriel,Oui,E. coli,Sanctions légales ou fermetures temporaires
+Tanger-Tétouan-Al Hoceïma,Tétouan,2024-06-23,41-60,39,Salade contaminée,Nausée,Modéré,14,Hydratation,Fatal,Non,Vendeur ambulant,Non,Salmonelle,Mise en conformité des normes d'hygiène
+Souss-Massa,Tiznit,2024-07-18,41-60,6,Nourriture de rue contaminée,Douleur abdominale,Sévère,1,Les deux,Rétabli,Non,Fournisseur industriel,Non,Salmonelle,Sanctions légales ou fermetures temporaires
+Souss-Massa,Agadir,2024-08-05,60+,26,Poisson avarié,Nausée,Modéré,16,Aucun,Fatal,Non,Vendeur ambulant,Non,Salmonelle,Inspection sanitaire approfondie
+Fès-Meknès,Taza,2024-09-15,60+,10,Poisson avarié,Diarrhée,Léger,4,Hydratation,Fatal,Non,Domicile,Non,E. coli,Renforcement des contrôles réguliers
+Fès-Meknès,Meknès,2024-02-11,-12,8,Nourriture de rue contaminée,Nausée,Léger,6,Les deux,Fatal,Oui,Vendeur ambulant,Oui,E. coli,Renforcement des contrôles réguliers
+Marrakech-Safi,Essaouira,2024-02-13,-12,17,Salade contaminée,Vomissements,Modéré,12,Les deux,Rétabli,Non,Fast-food,Oui,Aucun,Mise en conformité des normes d'hygiène
+Marrakech-Safi,Safi,2024-02-27,13-24,41,Poulet mal cuit,Douleur abdominale,Sévère,9,Hydratation,Fatal,Non,Domicile,Oui,Aucun,Inspection sanitaire approfondie
+Casablanca-Settat,Mohammedia,2024-04-17,-12,28,Poisson avarié,Nausée,Sévère,27,Aucun,Rétabli,Oui,Restaurant,Oui,E. coli,Sanctions légales ou fermetures temporaires
+Casablanca-Settat,Berrechid,2024-09-29,41-60,27,Poulet mal cuit,Nausée,Léger,20,Aucun,Rétabli,Non,Fournisseur industriel,Non,Listeria,Inspection sanitaire approfondie
+Tanger-Tétouan-Al Hoceïma,Tangier,2024-06-01,25-40,8,Poisson avarié,Diarrhée,Léger,8,Les deux,Fatal,Non,Fournisseur industriel,Non,Aucun,Renforcement des contrôles réguliers
+Marrakech-Safi,Essaouira,2024-03-12,41-60,15,Salade contaminée,Douleur abdominale,Modéré,9,Hydratation,Fatal,Non,Vendeur ambulant,Non,Listeria,Renforcement des contrôles réguliers
+Marrakech-Safi,Chichaoua,2024-01-12,25-40,9,Nourriture de rue contaminée,Diarrhée,Sévère,9,Hydratation,Rétabli,Oui,Vendeur ambulant,Oui,Aucun,Sanctions légales ou fermetures temporaires
+Tanger-Tétouan-Al Hoceïma,Chefchaouen,2024-02-17,25-40,29,Nourriture de rue contaminée,Douleur abdominale,Léger,27,Antibiotiques,Fatal,Non,Fournisseur industriel,Oui,Salmonelle,Sanctions légales ou fermetures temporaires
+Casablanca-Settat,Settat,2024-07-28,60+,42,Nourriture de rue contaminée,Diarrhée,Modéré,5,Aucun,Fatal,Non,Fournisseur industriel,Oui,Aucun,Mise en conformité des normes d'hygiène
+Souss-Massa,Chtouka Ait Baha,2024-06-21,25-40,19,Nourriture de rue contaminée,Nausée,Léger,16,Aucun,Fatal,Non,Domicile,Non,E. coli,Mise en conformité des normes d'hygiène
+Fès-Meknès,Meknès,2024-07-20,-12,43,Poisson avarié,Douleur abdominale,Sévère,35,Hydratation,Rétabli,Non,Restaurant,Non,E. coli,Inspection sanitaire approfondie
+Souss-Massa,Agadir,2024-09-10,25-40,5,Nourriture de rue contaminée,Nausée,Modéré,5,Antibiotiques,Rétabli,Non,Fast-food,Non,E. coli,Sanctions légales ou fermetures temporaires
+Casablanca-Settat,Mohammedia,2024-06-29,41-60,10,Poisson avarié,Diarrhée,Léger,9,Antibiotiques,Fatal,Oui,Restaurant,Oui,Listeria,Renforcement des contrôles réguliers
+Fès-Meknès,Sefrou,2024-05-30,-12,14,Salade contaminée,Douleur abdominale,Sévère,12,Les deux,Rétabli,Non,Fournisseur industriel,Non,Aucun,Inspection sanitaire approfondie
+Tanger-Tétouan-Al Hoceïma,Larache,2024-05-04,13-24,15,Poisson avarié,Douleur abdominale,Léger,13,Hydratation,Fatal,Non,Vendeur ambulant,Non,Salmonelle,Formation obligatoire du personnel alimentaire
